@@ -1,0 +1,4306 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "BANN00FRA",
+        "lieu": "Banne",
+        "agence": "OSUG",
+        "en service depuis le": "2003-07-03T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.15632144486712,
+          44.36920401968461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "MODA00FRA",
+        "lieu": "Avrieux",
+        "agence": "OSUG",
+        "en service depuis le": "1998-10-16T14:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7100892375648336,
+          45.21377946398097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "LUCE00FRA",
+        "lieu": "Lucelle",
+        "agence": "EOST",
+        "en service depuis le": "2007-10-31T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.268195856441859,
+          47.43835232478776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "EOST00FRA",
+        "lieu": "Strasbourg",
+        "agence": "EOST",
+        "en service depuis le": "2007-04-12T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.762497288868852,
+          48.57984473275726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "PLOE00FRA",
+        "lieu": "Ploemeur",
+        "agence": "OSUR",
+        "en service depuis le": "2006-12-04T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.427336669930021,
+          47.74611659214816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "CLFD00FRA",
+        "lieu": "Clermont-Ferrand",
+        "agence": "OPGC",
+        "en service depuis le": "2006-10-17T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.111078662885022,
+          45.76096500592547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "BLIX00FRA",
+        "lieu": "BLIEUX",
+        "agence": "OCA",
+        "en service depuis le": "2009-04-24T12:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.366694473208036,
+          43.87354036089765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "BURE00FRA",
+        "lieu": "Saint Etienne en Devoluy",
+        "agence": "OCA",
+        "en service depuis le": "1999-06-22T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.910594592713719,
+          44.63283961800746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "GUIL00FRA",
+        "lieu": "Guillestre",
+        "agence": "OCA",
+        "en service depuis le": "2007-11-12T11:50Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.661871092339771,
+          44.662246463647335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "NICE00FRA",
+        "lieu": "Nice",
+        "agence": "OCA",
+        "en service depuis le": "2000-12-15T12:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.29997908169605,
+          43.72550118179858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "RABU00FRA",
+        "lieu": "Saint Etienne de Tinee",
+        "agence": "OCA",
+        "en service depuis le": "2003-10-10T11:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.977067312405183,
+          44.26782285854755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "RSTL00FRA",
+        "lieu": "Rustrel (Laboratoire Souterrain a Bas Bruit LSBB)",
+        "agence": "OCA",
+        "en service depuis le": "2002-07-26T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.483701043942175,
+          43.94095858631592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SAUV00FRA",
+        "lieu": "Issirac",
+        "agence": "OCA",
+        "en service depuis le": "1999-11-17T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.466921093490008,
+          44.25545268834845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SOPH00FRA",
+        "lieu": "VALBONNE",
+        "agence": "OCA",
+        "en service depuis le": "2001-01-12T13:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.054102818069642,
+          43.61142992099534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SVRN00FRA",
+        "lieu": "Saint Veran",
+        "agence": "OCA",
+        "en service depuis le": "2001-09-06T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.907082454394635,
+          44.69688929603401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "TROP00FRA",
+        "lieu": "Gassin",
+        "agence": "OCA",
+        "en service depuis le": "2005-06-02T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.601014258134821,
+          43.2194859673625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "RG0000FRA",
+        "lieu": "Sartene",
+        "agence": "OCA",
+        "en service depuis le": "2000-03-04T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.793935019631572,
+          41.558837663091744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "ALPE00FRA",
+        "lieu": "Alpe d'Huez",
+        "agence": "OSUG",
+        "en service depuis le": "2006-10-30T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.083465383795126,
+          45.08661619909452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "ARGR00FRA",
+        "lieu": "Argentiere",
+        "agence": "OSUG",
+        "en service depuis le": "2007-06-28T12:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.004840716816519,
+          45.94650430566845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "CHMX00FRA",
+        "lieu": "Chamonix",
+        "agence": "OSUG",
+        "en service depuis le": "2007-06-29T12:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.873003097700323,
+          45.92615689690238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "CHAM00FRA",
+        "lieu": "Chamrousse",
+        "agence": "OSUG",
+        "en service depuis le": "2003-12-19T15:37Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.881081323420273,
+          45.11071646281467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "CHTL00FRA",
+        "lieu": "Le Chatel",
+        "agence": "OSUG",
+        "en service depuis le": "1997-10-14T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.358560368100195,
+          45.304139177046245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "FCLZ00FRA",
+        "lieu": "Les Deserts",
+        "agence": "OSUG",
+        "en service depuis le": "1998-06-04T14:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.985685620419818,
+          45.64300276891117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "JANU00FRA",
+        "lieu": "Montgenevre",
+        "agence": "OSUG",
+        "en service depuis le": "2005-10-14T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.710038379938695,
+          44.91036493098597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "LFAZ00FRA",
+        "lieu": "Le Faz ( Presles )",
+        "agence": "OSUG",
+        "en service depuis le": "2005-01-10T15:11Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.398459437464399,
+          45.116630694266455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "NATT00FRA",
+        "lieu": "PARVES-ET-NATTAGES",
+        "agence": "OSUG",
+        "en service depuis le": "2016-05-20T14:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.748009691804274,
+          45.70719552833537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "PUYA00FRA",
+        "lieu": "Vallouise",
+        "agence": "OSUG",
+        "en service depuis le": "2005-11-30T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4789566685210245,
+          44.85767163620598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "ROSD00FRA",
+        "lieu": "Beaufort-sur-Doron",
+        "agence": "OSUG",
+        "en service depuis le": "2005-12-15T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628232310902884,
+          45.69149130170924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "STEY00FRA",
+        "lieu": "Saint Eynard",
+        "agence": "OSUG",
+        "en service depuis le": "2003-05-27T13:15Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.761783370861768,
+          45.235221035451275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SURF00FRA",
+        "lieu": "Meyronnes",
+        "agence": "OSUG",
+        "en service depuis le": "2017-01-12T10:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8117485162898745,
+          44.480913673967095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "AGDE00FRA",
+        "lieu": "Cap d'Agde - Agde",
+        "agence": "OREME",
+        "en service depuis le": "2006-09-04T12:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.466429620936482,
+          43.29638448849595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "BUAN00FRA",
+        "lieu": "Bure",
+        "agence": "EOST",
+        "en service depuis le": "2007-11-13T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.353598400737544,
+          48.48615513546073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "CRAL00FRA",
+        "lieu": "Lannemezan",
+        "agence": "OMP",
+        "en service depuis le": "2010-02-09T13:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.36720187603971155,
+          43.128421096018855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "MAKS00FRA",
+        "lieu": "Fellering - lieu dit Markstein",
+        "agence": "EOST",
+        "en service depuis le": "2007-05-01T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.031526719177651,
+          47.92300642935263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "MICH00FRA",
+        "lieu": "Saint Michel l'Observatoire",
+        "agence": "OCA",
+        "en service depuis le": "1998-07-15T14:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.717357755424496,
+          43.924158718289235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SLVT00FRA",
+        "lieu": "La Salvetat - Couvertoirade",
+        "agence": "OREME",
+        "en service depuis le": "2006-01-09T12:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.268261787612177,
+          43.919805631065074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "GINA00FRA",
+        "lieu": "Cadarache",
+        "agence": "OCA",
+        "en service depuis le": "1998-02-05T18:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.786984260252022,
+          43.67572531678864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "CLAP00FRA",
+        "lieu": "Saint Etienne de Tinee",
+        "agence": "OCA",
+        "en service depuis le": "2003-04-05T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.927055448638593,
+          44.24844980544418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "AIGL00FRA",
+        "lieu": "Valleraugue",
+        "agence": "OREME",
+        "en service depuis le": "2001-06-01T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5812632433351155,
+          44.121399937704275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "BAUB00FRA",
+        "lieu": "Brouzet-les-Quissac",
+        "agence": "OREME",
+        "en service depuis le": "2006-09-04T12:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.966965640493829,
+          43.8769018788964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "FILF00FRA",
+        "lieu": "Fillols",
+        "agence": "OREME",
+        "en service depuis le": "2014-09-03T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.417052571784763,
+          42.56025225227077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "HOLA00FRA",
+        "lieu": "Hospitalet du Larzac",
+        "agence": "OREME",
+        "en service depuis le": "2014-03-07T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.221565215813894,
+          43.96975429186567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "LACA00FRA",
+        "lieu": "Lacaune",
+        "agence": "OREME",
+        "en service depuis le": "2005-06-01T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7275865215796924,
+          43.68099211828181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "MTP200FRA",
+        "lieu": "Montpellier",
+        "agence": "OREME",
+        "en service depuis le": "2013-08-12T12:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8641173234307726,
+          43.63876334389593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "MTPL00FRA",
+        "lieu": "Montpellier",
+        "agence": "OREME",
+        "en service depuis le": "1999-04-01T12:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8648426762301007,
+          43.63743919118008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "PALI00FRA",
+        "lieu": "Salins de Giraud",
+        "agence": "OREME",
+        "en service depuis le": "2007-12-06T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.810464644930554,
+          43.37597443659808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "PARD00FRA",
+        "lieu": "Pardailhan",
+        "agence": "OREME",
+        "en service depuis le": "2007-05-04T12:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.823476189274059,
+          43.43137326950401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SETE00FRA",
+        "lieu": "Sete",
+        "agence": "OREME",
+        "en service depuis le": "2007-10-26T06:48Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.699120024145056,
+          43.39765066247297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "STMR00FRA",
+        "lieu": "Saintes-Maries de la Mer",
+        "agence": "OREME",
+        "en service depuis le": "2008-04-08T12:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.421636742184376,
+          43.44914857347249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "AUBU00FRA",
+        "lieu": "Aubure",
+        "agence": "EOST",
+        "en service depuis le": "2008-07-05T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.196711440393226,
+          48.21685223933372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "ERCK00FRA",
+        "lieu": "Erckartswiller",
+        "agence": "EOST",
+        "en service depuis le": "2009-03-18T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.364213642150384,
+          48.87302922031349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "RIXH00FRA",
+        "lieu": "Rixheim",
+        "agence": "EOST",
+        "en service depuis le": "2011-03-11T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.378105438994767,
+          47.733642578134244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "STJ900FRA",
+        "lieu": "Strasbourg",
+        "agence": "EOST",
+        "en service depuis le": "1999-11-06T10:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.683821661742888,
+          48.62166404740706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "WLBH00FRA",
+        "lieu": "le Hohwald",
+        "agence": "EOST",
+        "en service depuis le": "2000-10-16T15:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.351301650734582,
+          48.415172785473125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "ARUF00FRA",
+        "lieu": "ARUDY",
+        "agence": "OMP",
+        "en service depuis le": "2014-03-13T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.43112922577077034,
+          43.09955018513269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "FAJP00FRA",
+        "lieu": "Fanjeaux",
+        "agence": "OMP",
+        "en service depuis le": "2002-04-12T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.025848107881912,
+          43.20737968224035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "FJC200FRA",
+        "lieu": "Fontjoncouse",
+        "agence": "OMP",
+        "en service depuis le": "2017-06-20T12:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7949026214051966,
+          43.04816420820343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "PIMI00FRA",
+        "lieu": "Bareges La Mongie",
+        "agence": "OMP",
+        "en service depuis le": "2010-04-20T13:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.14265254411786546,
+          42.93643337719953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "OPME00FRA",
+        "lieu": "Romagnat",
+        "agence": "OPGC",
+        "en service depuis le": "2011-07-11T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0897839629679344,
+          45.71288503608327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "AVR100FRA",
+        "lieu": "Avignonet",
+        "agence": "OSUG",
+        "en service depuis le": "2007-12-07T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.653236254292468,
+          44.956071356691574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "GERL00FRA",
+        "lieu": "Gresse-En-Vercors",
+        "agence": "OSUG",
+        "en service depuis le": "2014-07-16T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.476881237634758,
+          44.86724810136273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "LEBE00FRA",
+        "lieu": "Sutrieu",
+        "agence": "OSUG",
+        "en service depuis le": "2005-05-16T12:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6246514413608635,
+          45.91607838658942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "OGAG00FRA",
+        "lieu": "L'Argentiere la Bessee",
+        "agence": "OSUG",
+        "en service depuis le": "2011-07-18T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.53967233189779,
+          44.787803321520784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "CHIZ00FRA",
+        "lieu": "Chize",
+        "agence": "OASU",
+        "en service depuis le": "2000-10-19T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4077009537538604,
+          46.13346199668267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "LROC00FRA",
+        "lieu": "La Rochelle",
+        "agence": "OASU",
+        "en service depuis le": "2001-11-23T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2193201855660034,
+          46.15893957783774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "BLVR00FRA",
+        "lieu": "Belvoir / Les Champs Renaud",
+        "agence": "THETA",
+        "en service depuis le": "2013-07-03T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.611275013888889,
+          47.32347816944445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "FIED00FRA",
+        "lieu": "Le Fied",
+        "agence": "THETA",
+        "en service depuis le": "2013-09-20T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.714851022222223,
+          46.77270812222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "FLGY00FRA",
+        "lieu": "Flagey",
+        "agence": "THETA",
+        "en service depuis le": "2013-06-06T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1261712767673515,
+          47.039981109030286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "JOUX00FRA",
+        "lieu": "Chatel-de-Joux",
+        "agence": "THETA",
+        "en service depuis le": "2000-04-19T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7956555666666665,
+          46.52857141388889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "MRON00FRA",
+        "lieu": "Longevilles-Mont-d'Or",
+        "agence": "THETA",
+        "en service depuis le": "2013-09-19T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.352398849,
+          46.747234767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "PERX00FRA",
+        "lieu": "Hauterive-la-Fresse",
+        "agence": "THETA",
+        "en service depuis le": "2013-06-06T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.456222222222222,
+          46.960065136111105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "CHTG00FRA",
+        "lieu": "Cherbourg",
+        "agence": "OASU",
+        "en service depuis le": "2015-02-20T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.635481862040191,
+          49.65123768168216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "DIPP00FRA",
+        "lieu": "Dieppe",
+        "agence": "OASU",
+        "en service depuis le": "2015-01-22T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0844605277778,
+          49.929191625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "DUNQ00FRA",
+        "lieu": "Dunkerque",
+        "agence": "OASU",
+        "en service depuis le": "2013-09-19T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3666930083333,
+          51.048064555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "ROTG00FRA",
+        "lieu": "Roscoff",
+        "agence": "OASU",
+        "en service depuis le": "2009-08-26T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.965725922725088,
+          48.71843682992958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SMTG00FRA",
+        "lieu": "Saint-Malo",
+        "agence": "OASU",
+        "en service depuis le": "2010-02-17T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.027468777670608,
+          48.64108263932645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "TLTG00FRA",
+        "lieu": "Toulon",
+        "agence": "OASU",
+        "en service depuis le": "2017-10-27T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.913151797222201,
+          43.117378280556004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "FJCP00FRA",
+        "lieu": "Fontjoncouse",
+        "agence": "OMP",
+        "en service depuis le": "2002-04-12T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7949019919159563,
+          43.048164019043256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SJDV00FRA",
+        "lieu": "Saint Jean des Vignes",
+        "agence": "OSUG",
+        "en service depuis le": "1997-10-14T10:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.676579196340152,
+          45.87908667858743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "CHA200FRA",
+        "lieu": "Chamrousse",
+        "agence": "OSUG",
+        "en service depuis le": "2018-12-07T13:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.898527462536302,
+          45.1202361000155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "CREF00FRA",
+        "lieu": "Crevoux",
+        "agence": "OSUG",
+        "en service depuis le": "2018-09-27T13:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.622122555198325,
+          44.549438594706054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "PDOM00FRA",
+        "lieu": "Orcines",
+        "agence": "OPGC",
+        "en service depuis le": "2011-07-12T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.964566691855005,
+          45.77212304141829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "AVR200FRA",
+        "lieu": "Avignonet",
+        "agence": "OSUG",
+        "en service depuis le": "2019-09-06T12:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.653206012014757,
+          44.956068027271535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "LNE100FRA",
+        "lieu": "Trappes",
+        "agence": "LNE-SYRTE",
+        "en service depuis le": "2020-01-29T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9834323731228833,
+          48.760734042164835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "RUSA00FRA",
+        "lieu": "Rustrel",
+        "agence": "OREME",
+        "en service depuis le": "2018-06-27T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.465635594814684,
+          43.936346302325525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "RUSB00FRA",
+        "lieu": "Rustrel",
+        "agence": "OREME",
+        "en service depuis le": "2018-06-26T11:25Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.478343616754111,
+          43.938225798165035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "IRAF00FRA",
+        "lieu": "Larrau",
+        "agence": "OMP",
+        "en service depuis le": "2020-09-16T10:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.037028788365659,
+          43.03351064573735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "CGRO00FRA",
+        "lieu": "Marie",
+        "agence": "OCA",
+        "en service depuis le": "2020-11-25T13:54Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.200197987208678,
+          44.04725147107129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "MAN200FRA",
+        "lieu": "Le Mans",
+        "agence": "CNAM",
+        "en service depuis le": "2008-01-23T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1552836742659949,
+          48.018615419827555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "MANS00FRA",
+        "lieu": "Le Mans",
+        "agence": "CNAM",
+        "en service depuis le": "1998-04-21T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.15528367426599304,
+          48.01861541982727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "GENF00FRA",
+        "lieu": "G\u00e9nat",
+        "agence": "OMP",
+        "en service depuis le": "2021-04-14T12:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5722330861111111,
+          42.82339054722223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "CHRN00FRA",
+        "lieu": "Chateaurenard",
+        "agence": "CEA",
+        "en service depuis le": "2000-10-26T13:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.862099924537488,
+          43.88135849160673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "TENC00FRA",
+        "lieu": "Tence",
+        "agence": "CEA",
+        "en service depuis le": "2004-04-05T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.287467800200264,
+          45.12456234083097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "GRJF00FRA",
+        "lieu": "Saint-Bonnet-l'Enfantier",
+        "agence": "CEA",
+        "en service depuis le": "2010-09-01T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5139493593392115,
+          45.302939244849085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "BOUF00FRA",
+        "lieu": "Bouguenais",
+        "agence": "CNAM",
+        "en service depuis le": "2021-06-23T09:38Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6380876914939764,
+          47.160571312488045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "OGSA00FRA",
+        "lieu": "Villar-d'Ar\u00e8ne",
+        "agence": "OSUG",
+        "en service depuis le": "2022-09-15T10:30Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4007697,
+          45.03684752777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "ADER00FRA",
+        "lieu": "Adervielle",
+        "agence": "OMP",
+        "en service depuis le": "2022-10-26T14:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3799063361111112,
+          42.81325502777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "RG0100FRA",
+        "lieu": "Sartene",
+        "agence": "OCA",
+        "en service depuis le": "2021-03-11T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.793942104356418,
+          41.55883917680489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SEOL00FRA",
+        "lieu": "Seolane",
+        "agence": "N/A",
+        "en service depuis le": "2014-12-04T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.642258854339718,
+          44.389991858688624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "ADER10FRA",
+        "lieu": "Adervielle-Pouchergues",
+        "agence": "N/A",
+        "en service depuis le": "2023-08-01T15:58Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3798873361111111,
+          42.81327653611112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "TAOU00FRA",
+        "lieu": "La Mongie",
+        "agence": "N/A",
+        "en service depuis le": "2023-09-08T08:30Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.164243,
+          42.921091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "WANN00FRA",
+        "lieu": "WANNEHAIN",
+        "agence": "OCA",
+        "en service depuis le": "2008-07-08T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2659874737339076,
+          50.56975858577241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "UCBL00FRA",
+        "lieu": "Villeurbanne",
+        "agence": "Epos-Fr",
+        "en service depuis le": "2022-10-22T00:00Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.870111824726561,
+          45.78129188821959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "ACHU00FRA",
+        "lieu": "ACHUN",
+        "agence": "OCA",
+        "en service depuis le": "2011-11-09T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6803328264592072,
+          47.124441654115316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "ADAX00FRA",
+        "lieu": "DAX",
+        "agence": "OCA",
+        "en service depuis le": "2008-07-22T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0555987958648063,
+          43.71077963396547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "ALLE00FRA",
+        "lieu": "ALLEGRE",
+        "agence": "OCA",
+        "en service depuis le": "2011-07-06T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7117499770043687,
+          45.19877238954009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "ANNO00FRA",
+        "lieu": "ANNONAY",
+        "agence": "OCA",
+        "en service depuis le": "2006-05-19T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.665689049551212,
+          45.241376789419704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "AOUS00FRA",
+        "lieu": "AOUSTE-SUR-SYE",
+        "agence": "OCA",
+        "en service depuis le": "2013-03-20T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0577537079315755,
+          44.71087402831965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "ARCH00FRA",
+        "lieu": "ARCHIGNY",
+        "agence": "OCA",
+        "en service depuis le": "2011-10-26T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6533807972631905,
+          46.6731680957529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "ARES00FRA",
+        "lieu": "ARES",
+        "agence": "OCA",
+        "en service depuis le": "2007-01-22T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1341114261630003,
+          44.764037002425646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "ARLD00FRA",
+        "lieu": "ARNAY-LE-DUC",
+        "agence": "OCA",
+        "en service depuis le": "2011-11-08T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.486380965996147,
+          47.13351153471352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "ARMI00FRA",
+        "lieu": "ARGENS MINERVOIS",
+        "agence": "OCA",
+        "en service depuis le": "2006-10-10T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7660331065077437,
+          43.24192817534785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "ARRO00FRA",
+        "lieu": "ARROU",
+        "agence": "OCA",
+        "en service depuis le": "2011-09-22T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1230536408214338,
+          48.100459340545235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "ARVE00FRA",
+        "lieu": "ARVERT",
+        "agence": "OCA",
+        "en service depuis le": "2008-06-05T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1076245912825506,
+          45.74368032901579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "AUR200FRA",
+        "lieu": "AUREILLE",
+        "agence": "OCA",
+        "en service depuis le": "2021-05-11T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9396196984867435,
+          43.69606292112387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "AVEN00FRA",
+        "lieu": "AVENAS",
+        "agence": "OCA",
+        "en service depuis le": "2006-04-19T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.606172692885229,
+          46.19482402561879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "AVOT00FRA",
+        "lieu": "AVOT",
+        "agence": "OCA",
+        "en service depuis le": "2011-11-07T16:42Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.014171314728703,
+          47.61928322508254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "BACA00FRA",
+        "lieu": "LE BARCARES",
+        "agence": "OCA",
+        "en service depuis le": "2012-05-29T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0387607655017073,
+          42.83953122168043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "BACO00FRA",
+        "lieu": "BACOUEL",
+        "agence": "OCA",
+        "en service depuis le": "2006-03-20T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3832889016109697,
+          49.622474531277305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "BARN00FRA",
+        "lieu": "BARNAS",
+        "agence": "OCA",
+        "en service depuis le": "2012-08-01T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.169232276148278,
+          44.6681551051265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "BART00FRA",
+        "lieu": "BARTENHEIM",
+        "agence": "OCA",
+        "en service depuis le": "2010-11-18T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.479626792066686,
+          47.63306282927165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "BAZO00FRA",
+        "lieu": "BAZOUGES SUR LE LOIR",
+        "agence": "OCA",
+        "en service depuis le": "2011-09-23T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1702588799119917,
+          47.68925627717663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SET100FRA",
+        "lieu": "SETE",
+        "agence": "OREME",
+        "en service depuis le": "2024-04-12T12:40Z",
+        "network": "RENAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.701827402777778,
+          43.3997807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "AUMO00FRA",
+        "lieu": "AUMONT AUBRAC",
+        "agence": "OCA",
+        "en service depuis le": "2008-07-23T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2836421973966172,
+          44.7217902927465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "BIWI00FRA",
+        "lieu": "BILWISHEIM",
+        "agence": "OCA",
+        "en service depuis le": "2006-06-26T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.658243353142373,
+          48.708782149785165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "BLAN00FRA",
+        "lieu": "BLANQUEFORT CEDEX",
+        "agence": "OCA",
+        "en service depuis le": "2021-03-03T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5620990727723989,
+          44.930394842740924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "BLER00FRA",
+        "lieu": "BLERIOT-PLAGE",
+        "agence": "OCA",
+        "en service depuis le": "2006-07-18T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8248727157126836,
+          50.958617755473234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "BOIS00FRA",
+        "lieu": "BOISSY L'AILLERIE",
+        "agence": "OCA",
+        "en service depuis le": "2006-03-27T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.043065243653388,
+          49.09371615306664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "BOS200FRA",
+        "lieu": "BOISSE",
+        "agence": "OCA",
+        "en service depuis le": "2023-06-12T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6540119186406893,
+          44.715886026149015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "BUGN00FRA",
+        "lieu": "BUIGNY L'ABBE",
+        "agence": "OCA",
+        "en service depuis le": "2006-07-05T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.93610367379037,
+          50.098111045944535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "BUIS00FRA",
+        "lieu": "BUIS LES BARONNIES",
+        "agence": "OCA",
+        "en service depuis le": "2007-02-23T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.272557865306998,
+          44.277891810116024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "BUSS00FRA",
+        "lieu": "BUSSEROLLES",
+        "agence": "OCA",
+        "en service depuis le": "2008-06-06T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6396262306219443,
+          45.675851559336024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "CAPA00FRA",
+        "lieu": "CAP D'AGDE",
+        "agence": "OCA",
+        "en service depuis le": "2012-05-29T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5089626034061276,
+          43.28635808800248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "CAZE00FRA",
+        "lieu": "CAZERE",
+        "agence": "OCA",
+        "en service depuis le": "2010-05-19T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0860481011797056,
+          43.206846532350625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "CEAU00FRA",
+        "lieu": "CEAULMONT",
+        "agence": "OCA",
+        "en service depuis le": "2010-09-30T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5406012025496687,
+          46.55854587429113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "CERD00FRA",
+        "lieu": "CERDON DU LOIRET",
+        "agence": "OCA",
+        "en service depuis le": "2006-09-06T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3638141998689752,
+          47.63461954927653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "CESS00FRA",
+        "lieu": "CESSAC",
+        "agence": "OCA",
+        "en service depuis le": "2007-01-22T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1774411811689743,
+          44.74290441174888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "CHAI00FRA",
+        "lieu": "CHAILLEY",
+        "agence": "OCA",
+        "en service depuis le": "2011-11-10T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.700039975636243,
+          48.08418476964441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "CHER00FRA",
+        "lieu": "SAINT-PEE-SUR-NIVELLE",
+        "agence": "OCA",
+        "en service depuis le": "2010-05-20T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.550106416592521,
+          43.32157618446496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "CHIN00FRA",
+        "lieu": "CHINON",
+        "agence": "OCA",
+        "en service depuis le": "2010-10-29T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.25351428683662464,
+          47.165855905628185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "CHM200FRA",
+        "lieu": "CHEMILLEE",
+        "agence": "OCA",
+        "en service depuis le": "2006-09-11T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.731561185090817,
+          47.21738864818619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "CHOO00FRA",
+        "lieu": "HAM-SUR-MEUSE",
+        "agence": "OCA",
+        "en service depuis le": "2013-03-18T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.780251069939265,
+          50.110005258484065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "CIVA00FRA",
+        "lieu": "CIVRAY",
+        "agence": "OCA",
+        "en service depuis le": "2011-02-14T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.29519630478051645,
+          46.14880552947252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "CLAR00FRA",
+        "lieu": "CASTELLAR",
+        "agence": "OCA",
+        "en service depuis le": "2014-04-02T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.496668612637705,
+          43.803381795383075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "COMB00FRA",
+        "lieu": "COMBREE",
+        "agence": "OCA",
+        "en service depuis le": "2006-09-14T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0293558680838952,
+          47.70387345327563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "CORB00FRA",
+        "lieu": "CORBEIL ESSONNE",
+        "agence": "OCA",
+        "en service depuis le": "2012-12-20T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.475578837667252,
+          48.5938905942715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "COSA00FRA",
+        "lieu": "COUSANCES LES FORGES",
+        "agence": "OCA",
+        "en service depuis le": "2023-07-25T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.081667570051272,
+          48.61357904267175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "COUL00FRA",
+        "lieu": "COULOMB",
+        "agence": "OCA",
+        "en service depuis le": "2006-03-24T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.544982282251248,
+          48.65442645664479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "CRO200FRA",
+        "lieu": "LE CROISIC",
+        "agence": "OCA",
+        "en service depuis le": "2023-12-27T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.504186556038652,
+          47.28830081765985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "CURA00FRA",
+        "lieu": "CURAN",
+        "agence": "OCA",
+        "en service depuis le": "2011-07-05T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.855114088335691,
+          44.199655721781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "DIEN00FRA",
+        "lieu": "DIENNE",
+        "agence": "OCA",
+        "en service depuis le": "2011-02-16T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8482599060382805,
+          45.17771775445204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "DUAU00FRA",
+        "lieu": "DUAULT",
+        "agence": "OCA",
+        "en service depuis le": "2010-07-16T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.437708180402569,
+          48.36218093109258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "DUME00FRA",
+        "lieu": "DUGNY SUR MEUSE",
+        "agence": "OCA",
+        "en service depuis le": "2023-02-27T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.387526500246559,
+          49.10341877950794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "ECQU00FRA",
+        "lieu": "ECQUEDECQUES",
+        "agence": "OCA",
+        "en service depuis le": "2006-07-06T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4473709567271915,
+          50.56074182238655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "ESNO00FRA",
+        "lieu": "ESNOUVEAUX",
+        "agence": "OCA",
+        "en service depuis le": "2011-11-07T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.35088327156374,
+          48.1244296906722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "ETAU00FRA",
+        "lieu": "ETAULIERS",
+        "agence": "OCA",
+        "en service depuis le": "2007-02-23T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5728097387886816,
+          45.224292449249845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "EYGE00FRA",
+        "lieu": "EYGURANDE",
+        "agence": "OCA",
+        "en service depuis le": "2008-06-06T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4521775312107272,
+          45.66272493276551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "FENG00FRA",
+        "lieu": "FERRIERES EN GATINAIS",
+        "agence": "OCA",
+        "en service depuis le": "2006-09-07T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.794526852955175,
+          48.09021715342604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "FENO00FRA",
+        "lieu": "FENOUILLET DU RAZES",
+        "agence": "OCA",
+        "en service depuis le": "2011-12-01T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.029585277698178,
+          43.15714803868028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "FERI00FRA",
+        "lieu": "LA FERRIERE",
+        "agence": "OCA",
+        "en service depuis le": "2008-06-01T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7494931950600641,
+          47.62827415461565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "FEST00FRA",
+        "lieu": "FESTALEMPS",
+        "agence": "OCA",
+        "en service depuis le": "2011-02-14T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.24137887499439656,
+          45.225504358538466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "FORF00FRA",
+        "lieu": "FORFRY",
+        "agence": "OCA",
+        "en service depuis le": "2006-03-21T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8478906136048967,
+          49.05785025783922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "FOUE00FRA",
+        "lieu": "LA FOREST FOUESNANT",
+        "agence": "OCA",
+        "en service depuis le": "2011-05-10T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9803274164865567,
+          47.90271849847116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "FRAC00FRA",
+        "lieu": "FRAHIER ET CHATEBIER",
+        "agence": "OCA",
+        "en service depuis le": "2006-09-05T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.745648215485314,
+          47.659687452023235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "GENI00FRA",
+        "lieu": "GENILLE",
+        "agence": "OCA",
+        "en service depuis le": "2011-05-24T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0934281695867925,
+          47.18482271248014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "GIRA00FRA",
+        "lieu": "GIRANCOURT",
+        "agence": "OCA",
+        "en service depuis le": "2006-09-05T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.310836316376937,
+          48.16188000438959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "GLOS00FRA",
+        "lieu": "GLOS",
+        "agence": "OCA",
+        "en service depuis le": "2006-05-22T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2815672635901163,
+          49.12153998091737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "GOUE00FRA",
+        "lieu": "LA GOUESNIERE",
+        "agence": "OCA",
+        "en service depuis le": "2006-06-20T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.900818624824719,
+          48.61057293021957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "GRCH00FRA",
+        "lieu": "GRAND-CHAMP",
+        "agence": "OCA",
+        "en service depuis le": "2006-09-13T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.843261183760458,
+          47.758073075519135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "GUEU00FRA",
+        "lieu": "GUEUGNON",
+        "agence": "OCA",
+        "en service depuis le": "2013-02-27T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.057114390957621,
+          46.60423710011364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "HALU00FRA",
+        "lieu": "HAUTELUCE",
+        "agence": "OCA",
+        "en service depuis le": "2011-09-29T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.537371913716785,
+          45.75768568522199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "HAV200FRA",
+        "lieu": "LE HAVRE",
+        "agence": "OCA",
+        "en service depuis le": "2019-03-12T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.07216788628688993,
+          49.52198097075112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "HSRE00FRA",
+        "lieu": "HANNOGNE SAINT REMY",
+        "agence": "OCA",
+        "en service depuis le": "2008-07-08T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.137547942919948,
+          49.60537261235394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "ISSE00FRA",
+        "lieu": "ISSERPENT",
+        "agence": "OCA",
+        "en service depuis le": "2012-06-20T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6111033671687642,
+          46.16228267938303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "JANV00FRA",
+        "lieu": "JANVILLE",
+        "agence": "OCA",
+        "en service depuis le": "2006-09-07T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8827651820027098,
+          48.20025518385347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "JUVI00FRA",
+        "lieu": "JUVIGNY",
+        "agence": "OCA",
+        "en service depuis le": "2011-09-29T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.283026153327393,
+          46.217672780210265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "LAGU00FRA",
+        "lieu": "LAGUEPIE",
+        "agence": "OCA",
+        "en service depuis le": "2012-05-30T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.968442022261108,
+          44.145491542246305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "LAIN00FRA",
+        "lieu": "LAIN",
+        "agence": "OCA",
+        "en service depuis le": "2011-05-18T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3452005599097268,
+          47.618329040594574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "LAJA00FRA",
+        "lieu": "LA JAVIE",
+        "agence": "OCA",
+        "en service depuis le": "2011-10-14T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.345510364830831,
+          44.17729370751678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "LAMU00FRA",
+        "lieu": "LABASTIDE MURAT",
+        "agence": "OCA",
+        "en service depuis le": "2008-07-23T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.567671136246172,
+          44.647666173394086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "LAN200FRA",
+        "lieu": "LANGON",
+        "agence": "OCA",
+        "en service depuis le": "2020-02-03T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.864741406838929,
+          47.71762150841815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "LAPE00FRA",
+        "lieu": "LA PEYRATTE",
+        "agence": "OCA",
+        "en service depuis le": "2008-06-04T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1489791481044715,
+          46.67215485484944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "LAUZ00FRA",
+        "lieu": "LAUZERTE",
+        "agence": "OCA",
+        "en service depuis le": "2010-10-20T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1051452899284644,
+          44.24706406280761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "LAVA00FRA",
+        "lieu": "LAVARDAC",
+        "agence": "OCA",
+        "en service depuis le": "2010-10-21T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2998712411971056,
+          44.17565614406633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "LIFF00FRA",
+        "lieu": "LIFFREE",
+        "agence": "OCA",
+        "en service depuis le": "2006-09-15T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5099681624311563,
+          48.21376031484835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "LONG00FRA",
+        "lieu": "LONGWY",
+        "agence": "OCA",
+        "en service depuis le": "2008-07-09T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.768522399473136,
+          49.51447310951204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "LOYE00FRA",
+        "lieu": "LOYE SUR ARNON",
+        "agence": "OCA",
+        "en service depuis le": "2012-06-21T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3873436770292353,
+          46.65325628357919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "LUVI00FRA",
+        "lieu": "LUNEL-VIEL",
+        "agence": "OCA",
+        "en service depuis le": "2006-10-11T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.095882294031164,
+          43.69235848978076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "MASS00FRA",
+        "lieu": "MASSAY",
+        "agence": "OCA",
+        "en service depuis le": "2011-05-25T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9958400612980338,
+          47.15434420065219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "METO00FRA",
+        "lieu": "LE MESNIL-TOVE",
+        "agence": "OCA",
+        "en service depuis le": "2011-09-21T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.022796397641751,
+          48.69992630261002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "MIRP00FRA",
+        "lieu": "MIREPOIX",
+        "agence": "OCA",
+        "en service depuis le": "2008-07-22T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6928602186461349,
+          43.73663264153404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "MOBI00FRA",
+        "lieu": "MONTBIZOT",
+        "agence": "OCA",
+        "en service depuis le": "2010-10-28T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.18275286908692195,
+          48.14560529571216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "MOLA00FRA",
+        "lieu": "MONTREDON LABESSONNIE",
+        "agence": "OCA",
+        "en service depuis le": "2007-01-23T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3408677244633216,
+          43.720336158038585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "MOLI00FRA",
+        "lieu": "MONTLIVAULT",
+        "agence": "OCA",
+        "en service depuis le": "2010-10-28T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.449020417655416,
+          47.63497008177531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "MOLV00FRA",
+        "lieu": "MONT LE VIGNOBLE",
+        "agence": "OCA",
+        "en service depuis le": "2011-02-02T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.841096695793199,
+          48.61231571741939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "MONT00FRA",
+        "lieu": "MONTVERDUN",
+        "agence": "OCA",
+        "en service depuis le": "2006-04-21T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.067806178709784,
+          45.715688890344005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "MORV00FRA",
+        "lieu": "MORVAL",
+        "agence": "OCA",
+        "en service depuis le": "2006-07-03T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.872618406942188,
+          50.030301927023366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "MOSU00FRA",
+        "lieu": "MONTSURS",
+        "agence": "OCA",
+        "en service depuis le": "2011-05-23T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5535330596363153,
+          48.13706174205947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "MOU200FRA",
+        "lieu": "MOUSSEY",
+        "agence": "OCA",
+        "en service depuis le": "2022-07-11T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.782344661003755,
+          48.67370855964831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "MOUZ00FRA",
+        "lieu": "MOUZON",
+        "agence": "OCA",
+        "en service depuis le": "2011-11-17T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.08067291768766,
+          49.605178865118546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "MUNE00FRA",
+        "lieu": "MUN",
+        "agence": "OCA",
+        "en service depuis le": "2013-02-14T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2665291816263641,
+          43.279122705860615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "NATR00FRA",
+        "lieu": "NANTERRE",
+        "agence": "OCA",
+        "en service depuis le": "2019-03-15T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2185955877786836,
+          48.9175805926784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "OBER00FRA",
+        "lieu": "OBERGAILBACH",
+        "agence": "OCA",
+        "en service depuis le": "2013-04-30T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.218259683392945,
+          49.11807493479142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "ORIN00FRA",
+        "lieu": "ORIN",
+        "agence": "OCA",
+        "en service depuis le": "2010-05-20T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6743614409610039,
+          43.23087217918783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "PERI00FRA",
+        "lieu": "PERIERS",
+        "agence": "OCA",
+        "en service depuis le": "2011-09-21T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4112806341852113,
+          49.185311353469515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "PERR00FRA",
+        "lieu": "PERRIGNY-SUR-ARMANCON",
+        "agence": "OCA",
+        "en service depuis le": "2013-02-26T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.236432867005526,
+          47.6902585116807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "PIGN00FRA",
+        "lieu": "PIGNANS",
+        "agence": "OCA",
+        "en service depuis le": "2006-10-13T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.228904963005791,
+          43.301009474945495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "PLOU00FRA",
+        "lieu": "PLOUGUIEL",
+        "agence": "OCA",
+        "en service depuis le": "2011-05-11T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2428004994648956,
+          48.7958640974355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "POLI00FRA",
+        "lieu": "POLIENAS",
+        "agence": "OCA",
+        "en service depuis le": "2006-04-18T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.472508149574804,
+          45.249312530671396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "POPI00FRA",
+        "lieu": "LE POMPIDOU",
+        "agence": "OCA",
+        "en service depuis le": "2013-06-25T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6544711789421247,
+          44.19542213902376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "PORT00FRA",
+        "lieu": "ARS EN RE",
+        "agence": "OCA",
+        "en service depuis le": "2011-10-27T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5227107858067408,
+          46.211759790745724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "PRIS00FRA",
+        "lieu": "PRISCHES",
+        "agence": "OCA",
+        "en service depuis le": "2011-11-18T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7702526909942184,
+          50.07910396990991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "PUEC00FRA",
+        "lieu": "LE PUECH",
+        "agence": "OCA",
+        "en service depuis le": "2006-10-10T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3143706167136378,
+          43.69336064471347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "RANE00FRA",
+        "lieu": "RANES",
+        "agence": "OCA",
+        "en service depuis le": "2008-05-01T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.21183447218319115,
+          48.64052735177853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "RESC00FRA",
+        "lieu": "RECQUES-SUR-COURSE",
+        "agence": "OCA",
+        "en service depuis le": "2013-03-19T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7843300057675282,
+          50.5211090165371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SARA00FRA",
+        "lieu": "SAINT RABIER",
+        "agence": "OCA",
+        "en service depuis le": "2012-06-01T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1529836955410697,
+          45.16946344361229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SASL00FRA",
+        "lieu": "SAINT SEBASTIEN SUR LOIRE",
+        "agence": "OCA",
+        "en service depuis le": "2006-09-12T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5051038574431834,
+          47.2073070073486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SAUB00FRA",
+        "lieu": "SAINT-AUBIN",
+        "agence": "OCA",
+        "en service depuis le": "2022-11-16T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1524764549590496,
+          48.707743721607315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SELM00FRA",
+        "lieu": "SAINT ELOY LES MINES",
+        "agence": "OCA",
+        "en service depuis le": "2011-03-01T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8352224029975597,
+          46.16086028687286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SENE00FRA",
+        "lieu": "SENEZERGUES",
+        "agence": "OCA",
+        "en service depuis le": "2012-05-31T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4120646559341563,
+          44.702463543338546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SERQ00FRA",
+        "lieu": "SERQUEUX",
+        "agence": "OCA",
+        "en service depuis le": "2006-03-29T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5373464438895283,
+          49.63169816452713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SESS00FRA",
+        "lieu": "SESSENHEIM",
+        "agence": "OCA",
+        "en service depuis le": "2019-05-28T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.981295836667904,
+          48.795549892321326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SEVY00FRA",
+        "lieu": "SEVRY",
+        "agence": "OCA",
+        "en service depuis le": "2011-02-24T21:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8034699993205994,
+          47.1316520769725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SIGO00FRA",
+        "lieu": "SIGOURNAIS",
+        "agence": "OCA",
+        "en service depuis le": "2012-04-19T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9872572851067589,
+          46.70609972384556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SILA00FRA",
+        "lieu": "SAINT HILAIRE LA PLAINE",
+        "agence": "OCA",
+        "en service depuis le": "2012-06-19T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9766067415383917,
+          46.12642302284149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SIMA00FRA",
+        "lieu": "SIMANDRE-SUR-SARAN",
+        "agence": "OCA",
+        "en service depuis le": "2006-08-01T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.416490020461437,
+          46.22471087469951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SMEC00FRA",
+        "lieu": "BRACQUEMONT",
+        "agence": "OCA",
+        "en service depuis le": "2013-03-20T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1424097886272062,
+          49.94012185135683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SMLM00FRA",
+        "lieu": "SAINT MARTIN LA MEANNE",
+        "agence": "OCA",
+        "en service depuis le": "2012-05-31T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.986895818945063,
+          45.17087458811156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SOBI00FRA",
+        "lieu": "SOMME BIONNE",
+        "agence": "OCA",
+        "en service depuis le": "2011-05-16T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.723608040233517,
+          49.09483664171479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SOUR00FRA",
+        "lieu": "SOURNIA",
+        "agence": "OCA",
+        "en service depuis le": "2009-04-30T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4349672930595485,
+          42.72754578459908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "STGR00FRA",
+        "lieu": "SAINT GERVAIS",
+        "agence": "OCA",
+        "en service depuis le": "2006-10-11T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.573841945847332,
+          44.18533176052507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "TILL00FRA",
+        "lieu": "TILLY-SUR-SEULLES",
+        "agence": "OCA",
+        "en service depuis le": "2010-11-05T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6243140002039608,
+          49.17702023152589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "TOL200FRA",
+        "lieu": "TOULOUSE",
+        "agence": "OCA",
+        "en service depuis le": "2023-08-21T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.388889597918052,
+          43.53724483176184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "TORO00FRA",
+        "lieu": "TOUROUVRE",
+        "agence": "OCA",
+        "en service depuis le": "2013-03-22T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.655307940574698,
+          48.59034221513075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "TREN00FRA",
+        "lieu": "TRENSACQ",
+        "agence": "OCA",
+        "en service depuis le": "2010-10-21T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7514337859610251,
+          44.21382653274534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "TRES00FRA",
+        "lieu": "TRESSERVE",
+        "agence": "OCA",
+        "en service depuis le": "2007-07-20T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.902150155075289,
+          45.67768136169591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "TROC00FRA",
+        "lieu": "TRONCHY",
+        "agence": "OCA",
+        "en service depuis le": "2008-07-11T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.075135551355532,
+          46.725585207539865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "USSO00FRA",
+        "lieu": "USSEAU",
+        "agence": "OCA",
+        "en service depuis le": "2011-05-09T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5792696271554817,
+          46.17362800028687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "VACH00FRA",
+        "lieu": "LA VACHERIE",
+        "agence": "OCA",
+        "en service depuis le": "2006-05-23T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1459812357538248,
+          49.12153736191047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "VALB00FRA",
+        "lieu": "VALBERG",
+        "agence": "OCA",
+        "en service depuis le": "2019-02-06T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9305023518245825,
+          44.09557780601462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "VALD00FRA",
+        "lieu": "VALDEROURE",
+        "agence": "OCA",
+        "en service depuis le": "2009-04-29T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.72367978531375,
+          43.797462200230186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "VARO00FRA",
+        "lieu": "VAROUVILLE",
+        "agence": "OCA",
+        "en service depuis le": "2007-08-17T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3683543838111891,
+          49.67570207100389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "VAUC00FRA",
+        "lieu": "VAUCONCOURT NERVEZAIN",
+        "agence": "OCA",
+        "en service depuis le": "2008-07-10T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.826551711082127,
+          47.65956715921338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "VERC00FRA",
+        "lieu": "VERCEL",
+        "agence": "OCA",
+        "en service depuis le": "2012-05-11T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.395026309315065,
+          47.181444625014194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "VERG00FRA",
+        "lieu": "VERGOIGNAN",
+        "agence": "OCA",
+        "en service depuis le": "2011-11-30T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.19843814162819573,
+          43.718444773054074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "VESO00FRA",
+        "lieu": "VERNEUIL-SOUS-COUCY",
+        "agence": "OCA",
+        "en service depuis le": "2011-05-17T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.31432123895431,
+          49.54193580947721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "VIGY00FRA",
+        "lieu": "VIGY",
+        "agence": "OCA",
+        "en service depuis le": "2010-04-01T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.291572969729961,
+          49.20394171094945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "VILA00FRA",
+        "lieu": "VILLENEUVE-SUR-ALLIER",
+        "agence": "OCA",
+        "en service depuis le": "2008-07-11T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.249004633695043,
+          46.66030249979873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "VINO00FRA",
+        "lieu": "VINON-SUR-VERDON",
+        "agence": "OCA",
+        "en service depuis le": "2006-10-13T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.824322156211391,
+          43.73203669496429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "VIRO00FRA",
+        "lieu": "VILLERS-ROTIN",
+        "agence": "OCA",
+        "en service depuis le": "2012-10-24T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.406820865562007,
+          47.1577278403696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "VITL00FRA",
+        "lieu": "VITROLLES Cedex",
+        "agence": "OCA",
+        "en service depuis le": "2017-04-28T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.265338072265693,
+          43.421263091095575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "VITR00FRA",
+        "lieu": "VITRY LE CROISE",
+        "agence": "OCA",
+        "en service depuis le": "2007-07-12T17:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.565433655620834,
+          48.14569584185628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "VOUL00FRA",
+        "lieu": "VOULTON",
+        "agence": "OCA",
+        "en service depuis le": "2006-03-28T00:00Z",
+        "network": "ORPHEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.33276725414264,
+          48.61688818236661
+        ]
+      }
+    }
+  ]
+}

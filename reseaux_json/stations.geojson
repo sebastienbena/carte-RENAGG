@@ -1,0 +1,4812 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "ACHU00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Achun",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=ACHU00FRA",
+        "En_service_depuis_le": "2011-11-09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6803328264592072,
+          47.124441654115316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "ADAX00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Dax",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=ADAX00FRA",
+        "En_service_depuis_le": "2008-07-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0555987958648063,
+          43.71077963396547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "ADER00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OMP",
+        "Lieu": "Adervielle",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=ADER00FRA/description",
+        "En_service_depuis_le": "2022-10-26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3799063361111112,
+          42.81325502777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "ADER10FRA",
+        "Reseau": "RENAG",
+        "Agence": "N/A",
+        "Lieu": "Adervielle-Pouchergues",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=ADER10FRA/description",
+        "En_service_depuis_le": "2023-08-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3798873361111111,
+          42.81327653611112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "AGDE00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OREME",
+        "Lieu": "Cap D'Agde - Agde",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=AGDE00FRA/description",
+        "En_service_depuis_le": "2006-09-04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.466429620936482,
+          43.29638448849595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "AIGL00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OREME",
+        "Lieu": "Valleraugue",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=AIGL00FRA/description",
+        "En_service_depuis_le": "2001-06-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5812632433351155,
+          44.121399937704275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "ALLE00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Allegre",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=ALLE00FRA",
+        "En_service_depuis_le": "2011-07-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7117499770043687,
+          45.19877238954009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "ALPE00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OSUG",
+        "Lieu": "Alpe D'Huez",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=ALPE00FRA/description",
+        "En_service_depuis_le": "2006-10-30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.083465383795126,
+          45.08661619909452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "ANNO00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Annonay",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=ANNO00FRA",
+        "En_service_depuis_le": "2006-05-19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.665689049551212,
+          45.241376789419704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "AOUS00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Aouste-Sur-Sye",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=AOUS00FRA",
+        "En_service_depuis_le": "2013-03-20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0577537079315755,
+          44.71087402831965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "ARCH00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Archigny",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=ARCH00FRA",
+        "En_service_depuis_le": "2011-10-26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6533807972631905,
+          46.6731680957529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "ARES00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Ares",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=ARES00FRA",
+        "En_service_depuis_le": "2007-01-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1341114261630003,
+          44.764037002425646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "ARGR00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OSUG",
+        "Lieu": "Argentiere",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=ARGR00FRA/description",
+        "En_service_depuis_le": "2007-06-28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.004840716816519,
+          45.94650430566845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "ARLD00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Arnay-Le-Duc",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=ARLD00FRA",
+        "En_service_depuis_le": "2011-11-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.486380965996147,
+          47.13351153471352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "ARMI00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Argens Minervois",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=ARMI00FRA",
+        "En_service_depuis_le": "2006-10-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7660331065077437,
+          43.24192817534785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "ARRO00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Arrou",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=ARRO00FRA",
+        "En_service_depuis_le": "2011-09-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1230536408214338,
+          48.100459340545235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "ARUF00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OMP",
+        "Lieu": "Arudy",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=ARUF00FRA/description",
+        "En_service_depuis_le": "2014-03-13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.43112922577077034,
+          43.09955018513269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "ARVE00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Arvert",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=ARVE00FRA",
+        "En_service_depuis_le": "2008-06-05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1076245912825506,
+          45.74368032901579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "AUBU00FRA",
+        "Reseau": "RENAG",
+        "Agence": "EOST",
+        "Lieu": "Aubure",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=AUBU00FRA/description",
+        "En_service_depuis_le": "2008-07-05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.196711440393226,
+          48.21685223933372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "AUMO00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Aumont Aubrac",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=AUMO00FRA",
+        "En_service_depuis_le": "2008-07-23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2836421973966172,
+          44.7217902927465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "AUR200FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Aureille",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=AUR200FRA",
+        "En_service_depuis_le": "2021-05-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9396196984867435,
+          43.69606292112387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "AVEN00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Avenas",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=AVEN00FRA",
+        "En_service_depuis_le": "2006-04-19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.606172692885229,
+          46.19482402561879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "AVOT00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Avot",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=AVOT00FRA",
+        "En_service_depuis_le": "2011-11-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.014171314728703,
+          47.61928322508254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "AVR100FRA",
+        "Reseau": "RENAG",
+        "Agence": "OSUG",
+        "Lieu": "Avignonet",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=AVR100FRA/description",
+        "En_service_depuis_le": "2007-12-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.653236254292468,
+          44.956071356691574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "AVR200FRA",
+        "Reseau": "RENAG",
+        "Agence": "OSUG",
+        "Lieu": "Avignonet",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=AVR200FRA/description",
+        "En_service_depuis_le": "2019-09-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.653206012014757,
+          44.956068027271535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "BACA00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Le Barcares",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=BACA00FRA",
+        "En_service_depuis_le": "2012-05-29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0387607655017073,
+          42.83953122168043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "BACO00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Bacouel",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=BACO00FRA",
+        "En_service_depuis_le": "2006-03-20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3832889016109697,
+          49.622474531277305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "BANN00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OSUG",
+        "Lieu": "Banne",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=BANN00FRA/description",
+        "En_service_depuis_le": "2003-07-03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.15632144486712,
+          44.36920401968461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "BARN00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Barnas",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=BARN00FRA",
+        "En_service_depuis_le": "2012-08-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.169232276148278,
+          44.6681551051265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "BART00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Bartenheim",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=BART00FRA",
+        "En_service_depuis_le": "2010-11-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.479626792066686,
+          47.63306282927165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "BAUB00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OREME",
+        "Lieu": "Brouzet-Les-Quissac",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=BAUB00FRA/description",
+        "En_service_depuis_le": "2006-09-04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.966965640493829,
+          43.8769018788964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "BAZO00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Bazouges Sur Le Loir",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=BAZO00FRA",
+        "En_service_depuis_le": "2011-09-23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1702588799119917,
+          47.68925627717663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "BIWI00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Bilwisheim",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=BIWI00FRA",
+        "En_service_depuis_le": "2006-06-26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.658243353142373,
+          48.708782149785165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "BLAN00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Blanquefort Cedex",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=BLAN00FRA",
+        "En_service_depuis_le": "2021-03-03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5620990727723989,
+          44.930394842740924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "BLER00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Bleriot-Plage",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=BLER00FRA",
+        "En_service_depuis_le": "2006-07-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8248727157126836,
+          50.958617755473234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "BLIX00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OCA",
+        "Lieu": "Blieux",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=BLIX00FRA/description",
+        "En_service_depuis_le": "2009-04-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.366694473208036,
+          43.87354036089765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "BLVR00FRA",
+        "Reseau": "RENAG",
+        "Agence": "THETA",
+        "Lieu": "Belvoir / Les Champs Renaud",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=BLVR00FRA/description",
+        "En_service_depuis_le": "2013-07-03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.611275013888889,
+          47.32347816944445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "BOIS00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Boissy L'Aillerie",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=BOIS00FRA",
+        "En_service_depuis_le": "2006-03-27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.043065243653388,
+          49.09371615306664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "BOS200FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Boisse",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=BOS200FRA",
+        "En_service_depuis_le": "2023-06-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6540119186406893,
+          44.715886026149015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "BOUF00FRA",
+        "Reseau": "RENAG",
+        "Agence": "CNAM",
+        "Lieu": "Bouguenais",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=BOUF00FRA/description",
+        "En_service_depuis_le": "2021-06-23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6380876914939764,
+          47.160571312488045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "BUAN00FRA",
+        "Reseau": "RENAG",
+        "Agence": "EOST",
+        "Lieu": "Bure",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=BUAN00FRA/description",
+        "En_service_depuis_le": "2007-11-13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.353598400737544,
+          48.48615513546073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "BUGN00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Buigny L'Abbe",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=BUGN00FRA",
+        "En_service_depuis_le": "2006-07-05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.93610367379037,
+          50.098111045944535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "BUIS00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Buis Les Baronnies",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=BUIS00FRA",
+        "En_service_depuis_le": "2007-02-23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.272557865306998,
+          44.277891810116024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "BURE00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OCA",
+        "Lieu": "Saint Etienne En Devoluy",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=BURE00FRA/description",
+        "En_service_depuis_le": "1999-06-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.910594592713719,
+          44.63283961800746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "BUSS00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Busserolles",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=BUSS00FRA",
+        "En_service_depuis_le": "2008-06-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6396262306219443,
+          45.675851559336024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "CAPA00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Cap D'Agde",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=CAPA00FRA",
+        "En_service_depuis_le": "2012-05-29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5089626034061276,
+          43.28635808800248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "CAZE00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Cazere",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=CAZE00FRA",
+        "En_service_depuis_le": "2010-05-19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0860481011797056,
+          43.206846532350625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "CEAU00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Ceaulmont",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=CEAU00FRA",
+        "En_service_depuis_le": "2010-09-30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5406012025496687,
+          46.55854587429113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "CERD00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Cerdon Du Loiret",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=CERD00FRA",
+        "En_service_depuis_le": "2006-09-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3638141998689752,
+          47.63461954927653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "CESS00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Cessac",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=CESS00FRA",
+        "En_service_depuis_le": "2007-01-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1774411811689743,
+          44.74290441174888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "CGRO00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OCA",
+        "Lieu": "Marie",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=CGRO00FRA/description",
+        "En_service_depuis_le": "2020-11-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.200197987208678,
+          44.04725147107129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "CHA200FRA",
+        "Reseau": "RENAG",
+        "Agence": "OSUG",
+        "Lieu": "Chamrousse",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=CHA200FRA/description",
+        "En_service_depuis_le": "2018-12-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.898527462536302,
+          45.1202361000155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "CHAI00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Chailley",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=CHAI00FRA",
+        "En_service_depuis_le": "2011-11-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.700039975636243,
+          48.08418476964441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "CHAM00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OSUG",
+        "Lieu": "Chamrousse",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=CHAM00FRA/description",
+        "En_service_depuis_le": "2003-12-19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.881081323420273,
+          45.11071646281467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "CHER00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Saint-Pee-Sur-Nivelle",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=CHER00FRA",
+        "En_service_depuis_le": "2010-05-20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.550106416592521,
+          43.32157618446496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "CHIN00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Chinon",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=CHIN00FRA",
+        "En_service_depuis_le": "2010-10-29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.25351428683662464,
+          47.165855905628185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "CHIZ00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OASU",
+        "Lieu": "Chize",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=CHIZ00FRA/description",
+        "En_service_depuis_le": "2000-10-19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4077009537538604,
+          46.13346199668267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "CHM200FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Chemillee",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=CHM200FRA",
+        "En_service_depuis_le": "2006-09-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.731561185090817,
+          47.21738864818619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "CHMX00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OSUG",
+        "Lieu": "Chamonix",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=CHMX00FRA/description",
+        "En_service_depuis_le": "2007-06-29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.873003097700323,
+          45.92615689690238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "CHOO00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Ham-Sur-Meuse",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=CHOO00FRA",
+        "En_service_depuis_le": "2013-03-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.780251069939265,
+          50.110005258484065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "CHRN00FRA",
+        "Reseau": "RENAG",
+        "Agence": "CEA",
+        "Lieu": "Chateaurenard",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=CHRN00FRA/description",
+        "En_service_depuis_le": "2000-10-26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.862099924537488,
+          43.88135849160673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "CHTG00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OASU",
+        "Lieu": "Cherbourg",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=CHTG00FRA/description",
+        "En_service_depuis_le": "2015-02-20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.635481862040191,
+          49.65123768168216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "CHTL00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OSUG",
+        "Lieu": "Le Chatel",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=CHTL00FRA/description",
+        "En_service_depuis_le": "1997-10-14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.358560368100195,
+          45.304139177046245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "CIVA00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Civray",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=CIVA00FRA",
+        "En_service_depuis_le": "2011-02-14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.29519630478051645,
+          46.14880552947252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "CLAP00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OCA",
+        "Lieu": "Saint Etienne De Tinee",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=CLAP00FRA/description",
+        "En_service_depuis_le": "2003-04-05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.927055448638593,
+          44.24844980544418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "CLAR00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Castellar",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=CLAR00FRA",
+        "En_service_depuis_le": "2014-04-02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.496668612637705,
+          43.803381795383075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "CLFD00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OPGC",
+        "Lieu": "Clermont-Ferrand",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=CLFD00FRA/description",
+        "En_service_depuis_le": "2006-10-17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.111078662885022,
+          45.76096500592547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "COMB00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Combree",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=COMB00FRA",
+        "En_service_depuis_le": "2006-09-14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0293558680838952,
+          47.70387345327563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "CORB00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Corbeil Essonne",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=CORB00FRA",
+        "En_service_depuis_le": "2012-12-20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.475578837667252,
+          48.5938905942715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "COSA00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Cousances Les Forges",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=COSA00FRA",
+        "En_service_depuis_le": "2023-07-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.081667570051272,
+          48.61357904267175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "COUL00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Coulomb",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=COUL00FRA",
+        "En_service_depuis_le": "2006-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.544982282251248,
+          48.65442645664479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "CRAL00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OMP",
+        "Lieu": "Lannemezan",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=CRAL00FRA/description",
+        "En_service_depuis_le": "2010-02-09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.36720187603971155,
+          43.128421096018855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "CREF00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OSUG",
+        "Lieu": "Crevoux",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=CREF00FRA/description",
+        "En_service_depuis_le": "2018-09-27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.622122555198325,
+          44.549438594706054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "CRO200FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Le Croisic",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=CRO200FRA",
+        "En_service_depuis_le": "2023-12-27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.504186556038652,
+          47.28830081765985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "CURA00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Curan",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=CURA00FRA",
+        "En_service_depuis_le": "2011-07-05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.855114088335691,
+          44.199655721781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "DIEN00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Dienne",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=DIEN00FRA",
+        "En_service_depuis_le": "2011-02-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8482599060382805,
+          45.17771775445204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "DIPP00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OASU",
+        "Lieu": "Dieppe",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=DIPP00FRA/description",
+        "En_service_depuis_le": "2015-01-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0844605277778,
+          49.929191625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "DUAU00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Duault",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=DUAU00FRA",
+        "En_service_depuis_le": "2010-07-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.437708180402569,
+          48.36218093109258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "DUME00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Dugny Sur Meuse",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=DUME00FRA",
+        "En_service_depuis_le": "2023-02-27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.387526500246559,
+          49.10341877950794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "DUNQ00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OASU",
+        "Lieu": "Dunkerque",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=DUNQ00FRA/description",
+        "En_service_depuis_le": "2013-09-19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3666930083333,
+          51.048064555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "ECQU00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Ecquedecques",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=ECQU00FRA",
+        "En_service_depuis_le": "2006-07-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4473709567271915,
+          50.56074182238655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "EOST00FRA",
+        "Reseau": "RENAG",
+        "Agence": "EOST",
+        "Lieu": "Strasbourg",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=EOST00FRA/description",
+        "En_service_depuis_le": "2007-04-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.762497288868852,
+          48.57984473275726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "ERCK00FRA",
+        "Reseau": "RENAG",
+        "Agence": "EOST",
+        "Lieu": "Erckartswiller",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=ERCK00FRA/description",
+        "En_service_depuis_le": "2009-03-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.364213642150384,
+          48.87302922031349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "ESNO00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Esnouveaux",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=ESNO00FRA",
+        "En_service_depuis_le": "2011-11-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.35088327156374,
+          48.1244296906722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "ETAU00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Etauliers",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=ETAU00FRA",
+        "En_service_depuis_le": "2007-02-23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5728097387886816,
+          45.224292449249845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "EYGE00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Eygurande",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=EYGE00FRA",
+        "En_service_depuis_le": "2008-06-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4521775312107272,
+          45.66272493276551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "FAJP00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OMP",
+        "Lieu": "Fanjeaux",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=FAJP00FRA/description",
+        "En_service_depuis_le": "2002-04-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.025848107881912,
+          43.20737968224035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "FCLZ00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OSUG",
+        "Lieu": "Les Deserts",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=FCLZ00FRA/description",
+        "En_service_depuis_le": "1998-06-04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.985685620419818,
+          45.64300276891117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "FENG00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Ferrieres En Gatinais",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=FENG00FRA",
+        "En_service_depuis_le": "2006-09-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.794526852955175,
+          48.09021715342604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "FENO00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Fenouillet Du Razes",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=FENO00FRA",
+        "En_service_depuis_le": "2011-12-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.029585277698178,
+          43.15714803868028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "FERI00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "La Ferriere",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=FERI00FRA",
+        "En_service_depuis_le": "2008-06-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7494931950600641,
+          47.62827415461565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "FEST00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Festalemps",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=FEST00FRA",
+        "En_service_depuis_le": "2011-02-14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.24137887499439656,
+          45.225504358538466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "FIED00FRA",
+        "Reseau": "RENAG",
+        "Agence": "THETA",
+        "Lieu": "Le Fied",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=FIED00FRA/description",
+        "En_service_depuis_le": "2013-09-20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.714851022222223,
+          46.77270812222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "FILF00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OREME",
+        "Lieu": "Fillols",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=FILF00FRA/description",
+        "En_service_depuis_le": "2014-09-03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.417052571784763,
+          42.56025225227077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "FJC200FRA",
+        "Reseau": "RENAG",
+        "Agence": "OMP",
+        "Lieu": "Fontjoncouse",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=FJC200FRA/description",
+        "En_service_depuis_le": "2017-06-20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7949026214051966,
+          43.04816420820343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "FJCP00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OMP",
+        "Lieu": "Fontjoncouse",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=FJCP00FRA/description",
+        "En_service_depuis_le": "2002-04-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7949019919159563,
+          43.048164019043256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "FLGY00FRA",
+        "Reseau": "RENAG",
+        "Agence": "THETA",
+        "Lieu": "Flagey",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=FLGY00FRA/description",
+        "En_service_depuis_le": "2013-06-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1261712767673515,
+          47.039981109030286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "FORF00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Forfry",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=FORF00FRA",
+        "En_service_depuis_le": "2006-03-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8478906136048967,
+          49.05785025783922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "FOUE00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "La Forest Fouesnant",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=FOUE00FRA",
+        "En_service_depuis_le": "2011-05-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9803274164865567,
+          47.90271849847116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "FRAC00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Frahier Et Chatebier",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=FRAC00FRA",
+        "En_service_depuis_le": "2006-09-05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.745648215485314,
+          47.659687452023235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "GENF00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OMP",
+        "Lieu": "G\u00e9nat",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=GENF00FRA/description",
+        "En_service_depuis_le": "2021-04-14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5722330861111111,
+          42.82339054722223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "GENI00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Genille",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=GENI00FRA",
+        "En_service_depuis_le": "2011-05-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0934281695867925,
+          47.18482271248014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "GERL00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OSUG",
+        "Lieu": "Gresse-En-Vercors",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=GERL00FRA/description",
+        "En_service_depuis_le": "2014-07-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.476881237634758,
+          44.86724810136273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "GINA00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OCA",
+        "Lieu": "Cadarache",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=GINA00FRA/description",
+        "En_service_depuis_le": "1998-02-05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.786984260252022,
+          43.67572531678864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "GIRA00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Girancourt",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=GIRA00FRA",
+        "En_service_depuis_le": "2006-09-05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.310836316376937,
+          48.16188000438959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "GLOS00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Glos",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=GLOS00FRA",
+        "En_service_depuis_le": "2006-05-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2815672635901163,
+          49.12153998091737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "GOUE00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "La Gouesniere",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=GOUE00FRA",
+        "En_service_depuis_le": "2006-06-20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.900818624824719,
+          48.61057293021957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "GRCH00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Grand-Champ",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=GRCH00FRA",
+        "En_service_depuis_le": "2006-09-13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.843261183760458,
+          47.758073075519135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "GRJF00FRA",
+        "Reseau": "RENAG",
+        "Agence": "CEA",
+        "Lieu": "Saint-Bonnet-L'Enfantier",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=GRJF00FRA/description",
+        "En_service_depuis_le": "2010-09-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5139493593392115,
+          45.302939244849085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "GUEU00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Gueugnon",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=GUEU00FRA",
+        "En_service_depuis_le": "2013-02-27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.057114390957621,
+          46.60423710011364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "GUIL00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OCA",
+        "Lieu": "Guillestre",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=GUIL00FRA/description",
+        "En_service_depuis_le": "2007-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.661871092339771,
+          44.662246463647335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "HALU00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Hauteluce",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=HALU00FRA",
+        "En_service_depuis_le": "2011-09-29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.537371913716785,
+          45.75768568522199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "HAV200FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Le Havre",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=HAV200FRA",
+        "En_service_depuis_le": "2019-03-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.07216788628688993,
+          49.52198097075112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "HOLA00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OREME",
+        "Lieu": "Hospitalet Du Larzac",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=HOLA00FRA/description",
+        "En_service_depuis_le": "2014-03-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.221565215813894,
+          43.96975429186567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "HSRE00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Hannogne Saint Remy",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=HSRE00FRA",
+        "En_service_depuis_le": "2008-07-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.137547942919948,
+          49.60537261235394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "IRAF00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OMP",
+        "Lieu": "Larrau",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=IRAF00FRA/description",
+        "En_service_depuis_le": "2020-09-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.037028788365659,
+          43.03351064573735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "ISSE00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Isserpent",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=ISSE00FRA",
+        "En_service_depuis_le": "2012-06-20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6111033671687642,
+          46.16228267938303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "JANU00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OSUG",
+        "Lieu": "Montgenevre",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=JANU00FRA/description",
+        "En_service_depuis_le": "2005-10-14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.710038379938695,
+          44.91036493098597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "JANV00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Janville",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=JANV00FRA",
+        "En_service_depuis_le": "2006-09-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8827651820027098,
+          48.20025518385347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "JOUX00FRA",
+        "Reseau": "RENAG",
+        "Agence": "THETA",
+        "Lieu": "Chatel-De-Joux",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=JOUX00FRA/description",
+        "En_service_depuis_le": "2000-04-19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7956555666666665,
+          46.52857141388889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "JUVI00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Juvigny",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=JUVI00FRA",
+        "En_service_depuis_le": "2011-09-29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.283026153327393,
+          46.217672780210265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "LACA00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OREME",
+        "Lieu": "Lacaune",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=LACA00FRA/description",
+        "En_service_depuis_le": "2005-06-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7275865215796924,
+          43.68099211828181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "LAGU00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Laguepie",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=LAGU00FRA",
+        "En_service_depuis_le": "2012-05-30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.968442022261108,
+          44.145491542246305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "LAIN00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Lain",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=LAIN00FRA",
+        "En_service_depuis_le": "2011-05-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3452005599097268,
+          47.618329040594574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "LAJA00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "La Javie",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=LAJA00FRA",
+        "En_service_depuis_le": "2011-10-14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.345510364830831,
+          44.17729370751678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "LAMU00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Labastide Murat",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=LAMU00FRA",
+        "En_service_depuis_le": "2008-07-23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.567671136246172,
+          44.647666173394086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "LAN200FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Langon",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=LAN200FRA",
+        "En_service_depuis_le": "2020-02-03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.864741406838929,
+          47.71762150841815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "LAPE00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "La Peyratte",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=LAPE00FRA",
+        "En_service_depuis_le": "2008-06-04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1489791481044715,
+          46.67215485484944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "LAUZ00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Lauzerte",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=LAUZ00FRA",
+        "En_service_depuis_le": "2010-10-20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1051452899284644,
+          44.24706406280761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "LAVA00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Lavardac",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=LAVA00FRA",
+        "En_service_depuis_le": "2010-10-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2998712411971056,
+          44.17565614406633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "LEBE00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OSUG",
+        "Lieu": "Sutrieu",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=LEBE00FRA/description",
+        "En_service_depuis_le": "2005-05-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6246514413608635,
+          45.91607838658942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "LFAZ00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OSUG",
+        "Lieu": "Le Faz ( Presles )",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=LFAZ00FRA/description",
+        "En_service_depuis_le": "2005-01-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.398459437464399,
+          45.116630694266455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "LIFF00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Liffree",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=LIFF00FRA",
+        "En_service_depuis_le": "2006-09-15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5099681624311563,
+          48.21376031484835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "LNE100FRA",
+        "Reseau": "RENAG",
+        "Agence": "LNE-SYRTE",
+        "Lieu": "Trappes",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=LNE100FRA/description",
+        "En_service_depuis_le": "2020-01-29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9834323731228833,
+          48.760734042164835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "LONG00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Longwy",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=LONG00FRA",
+        "En_service_depuis_le": "2008-07-09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.768522399473136,
+          49.51447310951204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "LOYE00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Loye Sur Arnon",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=LOYE00FRA",
+        "En_service_depuis_le": "2012-06-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3873436770292353,
+          46.65325628357919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "LROC00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OASU",
+        "Lieu": "La Rochelle",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=LROC00FRA/description",
+        "En_service_depuis_le": "2001-11-23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2193201855660034,
+          46.15893957783774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "LUCE00FRA",
+        "Reseau": "RENAG",
+        "Agence": "EOST",
+        "Lieu": "Lucelle",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=LUCE00FRA/description",
+        "En_service_depuis_le": "2007-10-31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.268195856441859,
+          47.43835232478776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "LUVI00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Lunel-Viel",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=LUVI00FRA",
+        "En_service_depuis_le": "2006-10-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.095882294031164,
+          43.69235848978076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "MAKS00FRA",
+        "Reseau": "RENAG",
+        "Agence": "EOST",
+        "Lieu": "Fellering - Lieu Dit Markstein",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=MAKS00FRA/description",
+        "En_service_depuis_le": "2007-05-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.031526719177651,
+          47.92300642935263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "MAN200FRA",
+        "Reseau": "RENAG",
+        "Agence": "CNAM",
+        "Lieu": "Le Mans",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=MAN200FRA/description",
+        "En_service_depuis_le": "2008-01-23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1552836742659949,
+          48.018615419827555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "MANS00FRA",
+        "Reseau": "RENAG",
+        "Agence": "CNAM",
+        "Lieu": "Le Mans",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=MANS00FRA/description",
+        "En_service_depuis_le": "1998-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.15528367426599304,
+          48.01861541982727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "MASS00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Massay",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=MASS00FRA",
+        "En_service_depuis_le": "2011-05-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9958400612980338,
+          47.15434420065219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "METO00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Le Mesnil-Tove",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=METO00FRA",
+        "En_service_depuis_le": "2011-09-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.022796397641751,
+          48.69992630261002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "MICH00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OCA",
+        "Lieu": "Saint Michel L'Observatoire",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=MICH00FRA/description",
+        "En_service_depuis_le": "1998-07-15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.717357755424496,
+          43.924158718289235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "MIRP00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Mirepoix",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=MIRP00FRA",
+        "En_service_depuis_le": "2008-07-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6928602186461349,
+          43.73663264153404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "MOBI00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Montbizot",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=MOBI00FRA",
+        "En_service_depuis_le": "2010-10-28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.18275286908692195,
+          48.14560529571216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "MODA00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OSUG",
+        "Lieu": "Avrieux",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=MODA00FRA/description",
+        "En_service_depuis_le": "1998-10-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7100892375648336,
+          45.21377946398097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "MOLA00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Montredon Labessonnie",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=MOLA00FRA",
+        "En_service_depuis_le": "2007-01-23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3408677244633216,
+          43.720336158038585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "MOLI00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Montlivault",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=MOLI00FRA",
+        "En_service_depuis_le": "2010-10-28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.449020417655416,
+          47.63497008177531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "MOLV00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Mont Le Vignoble",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=MOLV00FRA",
+        "En_service_depuis_le": "2011-02-02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.841096695793199,
+          48.61231571741939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "MONT00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Montverdun",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=MONT00FRA",
+        "En_service_depuis_le": "2006-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.067806178709784,
+          45.715688890344005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "MORV00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Morval",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=MORV00FRA",
+        "En_service_depuis_le": "2006-07-03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.872618406942188,
+          50.030301927023366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "MOSU00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Montsurs",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=MOSU00FRA",
+        "En_service_depuis_le": "2011-05-23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5535330596363153,
+          48.13706174205947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "MOU200FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Moussey",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=MOU200FRA",
+        "En_service_depuis_le": "2022-07-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.782344661003755,
+          48.67370855964831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "MOUZ00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Mouzon",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=MOUZ00FRA",
+        "En_service_depuis_le": "2011-11-17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.08067291768766,
+          49.605178865118546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "MRON00FRA",
+        "Reseau": "RENAG",
+        "Agence": "THETA",
+        "Lieu": "Longevilles-Mont-D'Or",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=MRON00FRA/description",
+        "En_service_depuis_le": "2013-09-19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.352398849,
+          46.747234767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "MTP200FRA",
+        "Reseau": "RENAG",
+        "Agence": "OREME",
+        "Lieu": "Montpellier",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=MTP200FRA/description",
+        "En_service_depuis_le": "2013-08-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8641173234307726,
+          43.63876334389593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "MTPL00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OREME",
+        "Lieu": "Montpellier",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=MTPL00FRA/description",
+        "En_service_depuis_le": "1999-04-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8648426762301007,
+          43.63743919118008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "MUNE00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Mun",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=MUNE00FRA",
+        "En_service_depuis_le": "2013-02-14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2665291816263641,
+          43.279122705860615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "NATR00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Nanterre",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=NATR00FRA",
+        "En_service_depuis_le": "2019-03-15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2185955877786836,
+          48.9175805926784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "NATT00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OSUG",
+        "Lieu": "Parves-Et-Nattages",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=NATT00FRA/description",
+        "En_service_depuis_le": "2016-05-20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.748009691804274,
+          45.70719552833537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "NICE00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OCA",
+        "Lieu": "Nice",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=NICE00FRA/description",
+        "En_service_depuis_le": "2000-12-15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.29997908169605,
+          43.72550118179858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "OBER00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Obergailbach",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=OBER00FRA",
+        "En_service_depuis_le": "2013-04-30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.218259683392945,
+          49.11807493479142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "OGAG00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OSUG",
+        "Lieu": "L'Argentiere La Bessee",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=OGAG00FRA/description",
+        "En_service_depuis_le": "2011-07-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.53967233189779,
+          44.787803321520784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "OGSA00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OSUG",
+        "Lieu": "Villar-D'Ar\u00e8ne",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=OGSA00FRA/description",
+        "En_service_depuis_le": "2022-09-15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4007697,
+          45.03684752777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "OPME00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OPGC",
+        "Lieu": "Romagnat",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=OPME00FRA/description",
+        "En_service_depuis_le": "2011-07-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0897839629679344,
+          45.71288503608327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "ORIN00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Orin",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=ORIN00FRA",
+        "En_service_depuis_le": "2010-05-20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6743614409610039,
+          43.23087217918783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "PALI00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OREME",
+        "Lieu": "Salins De Giraud",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=PALI00FRA/description",
+        "En_service_depuis_le": "2007-12-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.810464644930554,
+          43.37597443659808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "PARD00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OREME",
+        "Lieu": "Pardailhan",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=PARD00FRA/description",
+        "En_service_depuis_le": "2007-05-04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.823476189274059,
+          43.43137326950401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "PDOM00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OPGC",
+        "Lieu": "Orcines",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=PDOM00FRA/description",
+        "En_service_depuis_le": "2011-07-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.964566691855005,
+          45.77212304141829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "PERI00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Periers",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=PERI00FRA",
+        "En_service_depuis_le": "2011-09-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4112806341852113,
+          49.185311353469515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "PERR00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Perrigny-Sur-Armancon",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=PERR00FRA",
+        "En_service_depuis_le": "2013-02-26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.236432867005526,
+          47.6902585116807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "PERX00FRA",
+        "Reseau": "RENAG",
+        "Agence": "THETA",
+        "Lieu": "Hauterive-La-Fresse",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=PERX00FRA/description",
+        "En_service_depuis_le": "2013-06-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.456222222222222,
+          46.960065136111105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "PIGN00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Pignans",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=PIGN00FRA",
+        "En_service_depuis_le": "2006-10-13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.228904963005791,
+          43.301009474945495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "PIMI00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OMP",
+        "Lieu": "Bareges La Mongie",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=PIMI00FRA/description",
+        "En_service_depuis_le": "2010-04-20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.14265254411786546,
+          42.93643337719953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "PLOE00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OSUR",
+        "Lieu": "Ploemeur",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=PLOE00FRA/description",
+        "En_service_depuis_le": "2006-12-04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.427336669930021,
+          47.74611659214816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "PLOU00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Plouguiel",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=PLOU00FRA",
+        "En_service_depuis_le": "2011-05-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2428004994648956,
+          48.7958640974355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "POLI00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Polienas",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=POLI00FRA",
+        "En_service_depuis_le": "2006-04-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.472508149574804,
+          45.249312530671396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "POPI00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Le Pompidou",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=POPI00FRA",
+        "En_service_depuis_le": "2013-06-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6544711789421247,
+          44.19542213902376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "PORT00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Ars En Re",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=PORT00FRA",
+        "En_service_depuis_le": "2011-10-27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5227107858067408,
+          46.211759790745724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "PRIS00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Prisches",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=PRIS00FRA",
+        "En_service_depuis_le": "2011-11-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7702526909942184,
+          50.07910396990991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "PUEC00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Le Puech",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=PUEC00FRA",
+        "En_service_depuis_le": "2006-10-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3143706167136378,
+          43.69336064471347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "PUYA00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OSUG",
+        "Lieu": "Vallouise",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=PUYA00FRA/description",
+        "En_service_depuis_le": "2005-11-30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4789566685210245,
+          44.85767163620598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "RABU00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OCA",
+        "Lieu": "Saint Etienne De Tinee",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=RABU00FRA/description",
+        "En_service_depuis_le": "2003-10-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.977067312405183,
+          44.26782285854755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "RANE00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Ranes",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=RANE00FRA",
+        "En_service_depuis_le": "2008-05-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.21183447218319115,
+          48.64052735177853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "RESC00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Recques-Sur-Course",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=RESC00FRA",
+        "En_service_depuis_le": "2013-03-19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7843300057675282,
+          50.5211090165371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "RG0000FRA",
+        "Reseau": "RENAG",
+        "Agence": "OCA",
+        "Lieu": "Sartene",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=RG0000FRA/description",
+        "En_service_depuis_le": "2000-03-04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.793935019631572,
+          41.558837663091744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "RG0100FRA",
+        "Reseau": "RENAG",
+        "Agence": "OCA",
+        "Lieu": "Sartene",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=RG0100FRA/description",
+        "En_service_depuis_le": "2021-03-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.793942104356418,
+          41.55883917680489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "RIXH00FRA",
+        "Reseau": "RENAG",
+        "Agence": "EOST",
+        "Lieu": "Rixheim",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=RIXH00FRA/description",
+        "En_service_depuis_le": "2011-03-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.378105438994767,
+          47.733642578134244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "ROSD00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OSUG",
+        "Lieu": "Beaufort-Sur-Doron",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=ROSD00FRA/description",
+        "En_service_depuis_le": "2005-12-15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628232310902884,
+          45.69149130170924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "ROTG00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OASU",
+        "Lieu": "Roscoff",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=ROTG00FRA/description",
+        "En_service_depuis_le": "2009-08-26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.965725922725088,
+          48.71843682992958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "RSTL00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OCA",
+        "Lieu": "Rustrel (Laboratoire Souterrain A Bas Bruit Lsbb)",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=RSTL00FRA/description",
+        "En_service_depuis_le": "2002-07-26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.483701043942175,
+          43.94095858631592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "RUSA00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OREME",
+        "Lieu": "Rustrel",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=RUSA00FRA/description",
+        "En_service_depuis_le": "2018-06-27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.465635594814684,
+          43.936346302325525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "RUSB00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OREME",
+        "Lieu": "Rustrel",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=RUSB00FRA/description",
+        "En_service_depuis_le": "2018-06-26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.478343616754111,
+          43.938225798165035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "SARA00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Saint Rabier",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=SARA00FRA",
+        "En_service_depuis_le": "2012-06-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1529836955410697,
+          45.16946344361229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "SASL00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Saint Sebastien Sur Loire",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=SASL00FRA",
+        "En_service_depuis_le": "2006-09-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5051038574431834,
+          47.2073070073486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "SAUB00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Saint-Aubin",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=SAUB00FRA",
+        "En_service_depuis_le": "2022-11-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1524764549590496,
+          48.707743721607315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "SAUV00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OCA",
+        "Lieu": "Issirac",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=SAUV00FRA/description",
+        "En_service_depuis_le": "1999-11-17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.466921093490008,
+          44.25545268834845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "SELM00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Saint Eloy Les Mines",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=SELM00FRA",
+        "En_service_depuis_le": "2011-03-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8352224029975597,
+          46.16086028687286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "SENE00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Senezergues",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=SENE00FRA",
+        "En_service_depuis_le": "2012-05-31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4120646559341563,
+          44.702463543338546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "SEOL00FRA",
+        "Reseau": "RENAG",
+        "Agence": "N/A",
+        "Lieu": "Seolane",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=SEOL00FRA/description",
+        "En_service_depuis_le": "2014-12-04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.642258854339718,
+          44.389991858688624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "SERQ00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Serqueux",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=SERQ00FRA",
+        "En_service_depuis_le": "2006-03-29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5373464438895283,
+          49.63169816452713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "SESS00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Sessenheim",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=SESS00FRA",
+        "En_service_depuis_le": "2019-05-28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.981295836667904,
+          48.795549892321326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "SET100FRA",
+        "Reseau": "RENAG",
+        "Agence": "OREME",
+        "Lieu": "Sete",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=SET100FRA/description",
+        "En_service_depuis_le": "2024-04-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.701827402777778,
+          43.3997807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "SETE00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OREME",
+        "Lieu": "Sete",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=SETE00FRA/description",
+        "En_service_depuis_le": "2007-10-26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.699120024145056,
+          43.39765066247297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "SEVY00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Sevry",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=SEVY00FRA",
+        "En_service_depuis_le": "2011-02-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8034699993205994,
+          47.1316520769725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "SIGO00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Sigournais",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=SIGO00FRA",
+        "En_service_depuis_le": "2012-04-19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9872572851067589,
+          46.70609972384556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "SILA00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Saint Hilaire La Plaine",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=SILA00FRA",
+        "En_service_depuis_le": "2012-06-19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9766067415383917,
+          46.12642302284149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "SIMA00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Simandre-Sur-Saran",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=SIMA00FRA",
+        "En_service_depuis_le": "2006-08-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.416490020461437,
+          46.22471087469951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "SJDV00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OSUG",
+        "Lieu": "Saint Jean Des Vignes",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=SJDV00FRA/description",
+        "En_service_depuis_le": "1997-10-14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.676579196340152,
+          45.87908667858743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "SLVT00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OREME",
+        "Lieu": "La Salvetat - Couvertoirade",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=SLVT00FRA/description",
+        "En_service_depuis_le": "2006-01-09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.268261787612177,
+          43.919805631065074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "SMEC00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Bracquemont",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=SMEC00FRA",
+        "En_service_depuis_le": "2013-03-20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1424097886272062,
+          49.94012185135683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "SMLM00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Saint Martin La Meanne",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=SMLM00FRA",
+        "En_service_depuis_le": "2012-05-31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.986895818945063,
+          45.17087458811156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "SMTG00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OASU",
+        "Lieu": "Saint-Malo",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=SMTG00FRA/description",
+        "En_service_depuis_le": "2010-02-17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.027468777670608,
+          48.64108263932645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "SOBI00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Somme Bionne",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=SOBI00FRA",
+        "En_service_depuis_le": "2011-05-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.723608040233517,
+          49.09483664171479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "SOPH00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OCA",
+        "Lieu": "Valbonne",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=SOPH00FRA/description",
+        "En_service_depuis_le": "2001-01-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.054102818069642,
+          43.61142992099534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "SOUR00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Sournia",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=SOUR00FRA",
+        "En_service_depuis_le": "2009-04-30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4349672930595485,
+          42.72754578459908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "STEY00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OSUG",
+        "Lieu": "Saint Eynard",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=STEY00FRA/description",
+        "En_service_depuis_le": "2003-05-27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.761783370861768,
+          45.235221035451275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "STGR00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Saint Gervais",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=STGR00FRA",
+        "En_service_depuis_le": "2006-10-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.573841945847332,
+          44.18533176052507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "STJ900FRA",
+        "Reseau": "RENAG",
+        "Agence": "EOST",
+        "Lieu": "Strasbourg",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=STJ900FRA/description",
+        "En_service_depuis_le": "1999-11-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.683821661742888,
+          48.62166404740706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "STMR00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OREME",
+        "Lieu": "Saintes-Maries De La Mer",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=STMR00FRA/description",
+        "En_service_depuis_le": "2008-04-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.421636742184376,
+          43.44914857347249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "SURF00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OSUG",
+        "Lieu": "Meyronnes",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=SURF00FRA/description",
+        "En_service_depuis_le": "2017-01-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8117485162898745,
+          44.480913673967095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "SVRN00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OCA",
+        "Lieu": "Saint Veran",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=SVRN00FRA/description",
+        "En_service_depuis_le": "2001-09-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.907082454394635,
+          44.69688929603401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "TAOU00FRA",
+        "Reseau": "RENAG",
+        "Agence": "N/A",
+        "Lieu": "La Mongie",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=TAOU00FRA/description",
+        "En_service_depuis_le": "2023-09-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.164243,
+          42.921091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "TENC00FRA",
+        "Reseau": "RENAG",
+        "Agence": "CEA",
+        "Lieu": "Tence",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=TENC00FRA/description",
+        "En_service_depuis_le": "2004-04-05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.287467800200264,
+          45.12456234083097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "TILL00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Tilly-Sur-Seulles",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=TILL00FRA",
+        "En_service_depuis_le": "2010-11-05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6243140002039608,
+          49.17702023152589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "TLTG00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OASU",
+        "Lieu": "Toulon",
+        "RTK": "Non",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=TLTG00FRA/description",
+        "En_service_depuis_le": "2017-10-27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.913151797222201,
+          43.117378280556004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "TOL200FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Toulouse",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=TOL200FRA",
+        "En_service_depuis_le": "2023-08-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.388889597918052,
+          43.53724483176184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "TORO00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Tourouvre",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=TORO00FRA",
+        "En_service_depuis_le": "2013-03-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.655307940574698,
+          48.59034221513075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "TREN00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Trensacq",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=TREN00FRA",
+        "En_service_depuis_le": "2010-10-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7514337859610251,
+          44.21382653274534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "TRES00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Tresserve",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=TRES00FRA",
+        "En_service_depuis_le": "2007-07-20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.902150155075289,
+          45.67768136169591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "TROC00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Tronchy",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=TROC00FRA",
+        "En_service_depuis_le": "2008-07-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.075135551355532,
+          46.725585207539865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "TROP00FRA",
+        "Reseau": "RENAG",
+        "Agence": "OCA",
+        "Lieu": "Gassin",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=TROP00FRA/description",
+        "En_service_depuis_le": "2005-06-02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.601014258134821,
+          43.2194859673625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "UCBL00FRA",
+        "Reseau": "RENAG",
+        "Agence": "Epos-Fr",
+        "Lieu": "Villeurbanne",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=UCBL00FRA/description",
+        "En_service_depuis_le": "2022-10-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.870111824726561,
+          45.78129188821959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "USSO00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Usseau",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=USSO00FRA",
+        "En_service_depuis_le": "2011-05-09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5792696271554817,
+          46.17362800028687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "VACH00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "La Vacherie",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=VACH00FRA",
+        "En_service_depuis_le": "2006-05-23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1459812357538248,
+          49.12153736191047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "VALB00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Valberg",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=VALB00FRA",
+        "En_service_depuis_le": "2019-02-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9305023518245825,
+          44.09557780601462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "VALD00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Valderoure",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=VALD00FRA",
+        "En_service_depuis_le": "2009-04-29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.72367978531375,
+          43.797462200230186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "VARO00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Varouville",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=VARO00FRA",
+        "En_service_depuis_le": "2007-08-17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3683543838111891,
+          49.67570207100389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "VAUC00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Vauconcourt Nervezain",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=VAUC00FRA",
+        "En_service_depuis_le": "2008-07-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.826551711082127,
+          47.65956715921338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "VERC00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Vercel",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=VERC00FRA",
+        "En_service_depuis_le": "2012-05-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.395026309315065,
+          47.181444625014194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "VERG00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Vergoignan",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=VERG00FRA",
+        "En_service_depuis_le": "2011-11-30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.19843814162819573,
+          43.718444773054074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "VESO00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Verneuil-Sous-Coucy",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=VESO00FRA",
+        "En_service_depuis_le": "2011-05-17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.31432123895431,
+          49.54193580947721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "VIGY00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Vigy",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=VIGY00FRA",
+        "En_service_depuis_le": "2010-04-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.291572969729961,
+          49.20394171094945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "VILA00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Villeneuve-Sur-Allier",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=VILA00FRA",
+        "En_service_depuis_le": "2008-07-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.249004633695043,
+          46.66030249979873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "VINO00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Vinon-Sur-Verdon",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=VINO00FRA",
+        "En_service_depuis_le": "2006-10-13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.824322156211391,
+          43.73203669496429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "VIRO00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Villers-Rotin",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=VIRO00FRA",
+        "En_service_depuis_le": "2012-10-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.406820865562007,
+          47.1577278403696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "VITL00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Vitrolles Cedex",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=VITL00FRA",
+        "En_service_depuis_le": "2017-04-28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.265338072265693,
+          43.421263091095575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "VITR00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Vitry Le Croise",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=VITR00FRA",
+        "En_service_depuis_le": "2007-07-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.565433655620834,
+          48.14569584185628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "VOUL00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Voulton",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=VOUL00FRA",
+        "En_service_depuis_le": "2006-03-28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.33276725414264,
+          48.61688818236661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "WANN00FRA",
+        "Reseau": "ORPHEON",
+        "Agence": "OCA",
+        "Lieu": "Wannehain",
+        "RTK": "Non",
+        "URL": "https://gnss-metadata.eu/site/stations?StationSearchModel%5BstationId%5D=WANN00FRA",
+        "En_service_depuis_le": "2008-07-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2659874737339076,
+          50.56975858577241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "WLBH00FRA",
+        "Reseau": "RENAG",
+        "Agence": "EOST",
+        "Lieu": "Le Hohwald",
+        "RTK": "Oui",
+        "URL": "https://gnssdata-epos.oca.eu/#/metadata/marker=WLBH00FRA/description",
+        "En_service_depuis_le": "2000-10-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.351301650734582,
+          48.415172785473125
+        ]
+      }
+    }
+  ]
+}
